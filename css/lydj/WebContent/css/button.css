@@ -1,0 +1,86 @@
+﻿/* html
+{
+	width:100%;
+	height:100%;
+}
+body 
+{
+	background-color:#fff;
+	font-size:18px;
+	font-family:"Arial","Tahoma","微软雅黑","雅黑";
+	line-height:18px;
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+div
+{
+	padding:18px;
+} */
+img
+{
+	border:0px;
+	vertical-align:middle;
+	padding:0px;
+	margin:0px;
+}
+button
+{
+	font-family:"Arial","Tahoma","微软雅黑","雅黑";
+	border:0px;
+	vertical-align:middle;
+	margin:8px;
+	line-height:18px;	
+	font-size:18px;
+}
+/* download by http://www.websjy.com */
+.btn12
+{
+	width:143px;
+	height:40px;
+	background:url("../image/button/bg12.jpg") no-repeat left top;
+	color:#FFF;
+}
+.uploadify-button {
+	background:url("../image/button/bg12.jpg") no-repeat left top;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+    }
+    .uploadify:hover .uploadify-button {
+       	background:url("../image/button/bg29.jpg") no-repeat left top;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+    }
+.btn29
+{
+	width:143px;
+	height:43px;
+	line-height:18px;
+	font-size:18px;
+	background:url("../image/button/bg29.jpg") no-repeat left top;
+	color:#FFF;
+}
+.btn26
+{
+	width:140px;
+	height:36px;
+	line-height:18px;
+	font-size:18px;
+	background:url("../image/button/bg26.jpg") no-repeat left top;
+	color:#FFF;
+	padding-bottom:4px;
+}
+
+.showSelect{
+	background:#ffffff;
+	list-style:outside none none;
+	 padding: 0;
+	  text-align: left;
+	  font-size:12px;
+}
+.showSelect li:hover{
+	background:#4699f4;
+	
+}
