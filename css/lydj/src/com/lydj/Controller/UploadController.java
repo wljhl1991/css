@@ -112,7 +112,7 @@ public class UploadController {
 		request.setAttribute("fileName", "fileName1");
 		request.setAttribute("town", ConInfo.TOWN);
 		request.setAttribute("street", ConInfo.getStreet("110105000"));
-		logger.debug("toUploadTest.do : localFolad :" +s);
+		logger.debug("t toUploadTest.do : localFolad :" +s);
 		return "/indextt";	
 	}
 	 @ResponseBody
