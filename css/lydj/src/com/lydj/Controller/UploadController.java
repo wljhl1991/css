@@ -113,7 +113,7 @@ public class UploadController {
 		request.setAttribute("town", ConInfo.TOWN);
 		request.setAttribute("street", ConInfo.getStreet("110105000"));
 		logger.debug("toUploadTest.do : localFolad :" +s);
-		return "/indextt";	
+		return "/indexttll";	
 	}
 	 @ResponseBody
 	@RequestMapping("/changeData.do")
